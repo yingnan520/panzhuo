@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {\rtf1\ansi\ansicpg936\cocoartf2511
 \cocoatextscaling0\cocoaplatform0{\fonttbl}
 {\colortbl;\red255\green255\blue255;}
@@ -6,3 +7,5 @@
 }
 
 pz
+123
+
